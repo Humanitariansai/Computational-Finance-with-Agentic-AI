@@ -1,338 +1,312 @@
 
-# **Computational Finance with Agentic AI**
+# **Humanitarians AI — Computational Finance with Agentic AI**
 
-### *By Nik Bear Brown*
+### *A Work-in-Progress YouTube Course Built by Volunteers Learning-by-Teaching*
 
-(*formerly: Computational Finance with Excel, Python, and LLMs*)
-
-Excel is removed as a pillar.
-Agentic AI replaces LLM-only analysis.
-Python + LLMs + autonomous agents become the default computational toolkit.
+**A Program of Humanitarians AI, a 501(c)(3) nonprofit dedicated to ethical AI for social good.**
+[https://www.humanitarians.ai/](https://www.humanitarians.ai/)
 
 ---
 
-# **Table of Contents — Agentic AI Edition**
+# **Course Overview**
+
+**Humanitarians AI — Computational Finance with Agentic AI** is a community-driven, open-access educational project where volunteers—often recent graduates, students, and early-career technologists—**learn by teaching**.
+
+This course is a **work in progress**, continually evolving through:
+
+* Iterative outlines
+* Community-created lecture content
+* GitHub-hosted hands-on labs
+* Real-time improvements using the **Humanitarians Courses GPT**
+  [https://chatgpt.com/g/g-6920a81baeb8819185cc8100ce963e95-humanitarians-courses](https://chatgpt.com/g/g-6920a81baeb8819185cc8100ce963e95-humanitarians-courses)
+
+The course teaches computational finance using **Python**, **LLMs**, and **agentic AI systems**, empowering learners to build models, trading systems, valuation tools, forecasting engines, and financial analysis agents aligned with the mission of Humanitarians AI to *use AI for global good*.
 
 ---
 
-# **Preface: The Trilateral Approach to Agentic Computational Finance**
+# **Course Structure & Pedagogy**
 
-* Finance models as computational systems
-* Python for deterministic modeling
-* LLMs for probabilistic reasoning & synthesis
-* **Agentic AI** for tool-using, multi-step financial decision systems
-* Triangulation: Python ↔ LLM ↔ Agent consensus loops
+Humanitarians AI YouTube courses follow a **“Learn → Build → Teach”** cycle:
 
----
+1. **Start with an Outline**
+   Volunteers begin with a structured outline (like this one) and improve it collaboratively.
 
-# **Part I — Foundations of Computational Finance and Agentic AI**
+2. **Develop Hands-On Labs First**
+   Before any lecture videos are produced, the course repository includes:
 
----
+   * Jupyter notebooks
+   * Python code demos
+   * Data labs
+   * Mini-projects
+   * Applied financial analysis exercises
 
-## **Chapter 1: Introduction to Computational Finance with Agentic AI**
+3. **Use the Humanitarians Courses GPT**
+   Volunteers generate:
 
-1.1 The Convergence of Python, LLMs, and Agentic Systems
-1.2 Setting Up the Agentic Finance Environment (Python + API agents)
-1.3 The Triangulation Methodology (LLM → Python → LLM → Human)
-1.4 Working with Financial Data in an Agentic Loop
-**Exercises:**
+   * Lecture scripts
+   * Slides
+   * Lab guides
+   * Assignments
+   * Demos & analogies
 
-* Financial definitions validated by 2-agent cross-exam loop
-* Python data pull for tech stocks
-* Building an LLM “Fact Checker Agent” for finance
+4. **Produce YouTube Lectures**
+   Only after the labs are complete do volunteers record:
 
----
+   * Concept walkthroughs
+   * Coding tutorials
+   * Mini-lectures
+   * Practitioner/guest interviews
 
-## **Chapter 2: Return Calculations and Risk Measures**
+5. **Continuous Updating**
+   New fellows continually enhance the course with:
 
-2.1 Simple vs Log Returns
-2.2 Arithmetic vs Geometric Means
-2.3 Variance, Volatility & Tail Risk
-2.4 Agentic Visualization: LLM-Generated Narratives for Python Graphs
-**Exercises:**
-
-* Return calculation pipelines
-* Python vs LLM comparison agent
-* Risk-return explanation agent for TSLA, NVDA, AMD, META
-
----
-
-## **Chapter 3: Equity Securities and Fixed Income**
-
-3.1 Equity Characteristics
-3.2 Equity Valuation Approaches
-3.3 Bond Fundamentals
-3.4 Yield, Duration & Interest Rate Structures
-**Exercises:**
-
-* Python-based equity and bond pricing
-* LLM Valuation Narrator Agent
-* Automated yield curve construction agent
+   * Updated labs
+   * Agentic AI demonstrations
+   * New datasets
+   * Additional lecture videos
 
 ---
 
-## **Chapter 4: Funds, ETFs & Agentic Analytics**
-
-4.1 Mutual Fund vs ETF Structures
-4.2 Active vs Passive Debates (LLM multi-agent debate engine)
-4.3 NAV, Flow Dynamics & Tracking Error
-4.4 ETF Arbitrage & Creation/Redemption Modeling
-**Exercises:**
-
-* Active/passive performance analysis in Python
-* LLM-driven ETF tracking error auditor
-* Agent-based performance attribution
+# **Part I — Foundations of the Course Topic**
 
 ---
 
-# **Part II — Time Value, Discounting & Derivative Logic**
+## **Module 1 — Introduction to Computational Finance & Agentic AI**
+
+Topics may include:
+
+* What computational finance is
+* Why agentic AI matters
+* How Python + LLMs + financial tools integrate
+* Ethical considerations in automated financial systems
+* Real-world applications aligned with Humanitarians AI's mission
 
 ---
 
-## **Chapter 5: Time Value of Money & Discounted Cash Flows**
+## **Module 2 — Key Concepts & Terminology**
 
-5.1 Present Value, Future Value
-5.2 Annuities & Perpetuities
-5.3 Compounding & Effective Rates
-5.4 Amortization Structures
-**Exercises:**
+Includes:
 
-* Python DCF modeling
-* Agentic sensitivity analysis assistant
-* “Explain-my-cash-flow” LLM logic agent
+* Returns, volatility, correlation
+* Securities, derivatives, fixed income, risk
+* Basic agentic AI terminology (tools, plans, memory, autonomy)
+* How financial concepts map to automated agents
 
 ---
 
-## **Chapter 6: Margin, Leverage & Short Selling**
+## **Module 3 — Tools, Frameworks, and Core Skills**
 
-6.1 Margin Account Mechanics
-6.2 Initial / Maintenance Margin
-6.3 Short Selling Risks
-6.4 Regulatory Foundations
-**Exercises:**
+Covers:
 
-* Python margin calculators
-* LLM scenario-risk agent
-* Shock simulation agent for short-selling losses
+* Python for financial modeling
+* Working with APIs and financial datasets
+* Building LLM reasoning prompts
+* Constructing agentic workflows for finance
+* Reproducibility and notebook best practices
 
 ---
 
-## **Chapter 7: Options, Derivatives & Agentic Pricing**
-
-7.1 Options, Payoffs & Greeks
-7.2 Binomial Pricing
-7.3 Black–Scholes Implementation
-7.4 Delta Hedging & Risk Books
-**Exercises:**
-
-* Python payoff generator
-* Options greeks interpreter agent
-* Multi-agent arbitrage detector
+# **Part II — Technical Skills, Methods & Practice**
 
 ---
 
-# **Part III — Portfolio Theory & Asset Pricing with Agents**
+## **Module 4 — Foundational Techniques**
+
+Includes:
+
+* Return calculations
+* Risk & portfolio basics
+* Discounted cash flows
+* Option pricing fundamentals
+* Core agent patterns (verification, tool-use, planner agents)
 
 ---
 
-## **Chapter 8: Portfolio Construction & Modern Portfolio Theory**
+## **Module 5 — Applied Techniques & Real-World Scenarios**
 
-8.1 Expected Return & Volatility
-8.2 Diversification & Correlation
-8.3 Portfolio Optimization
-8.4 Efficient Frontier Construction
-**Exercises:**
+Includes:
 
-* Python correlation matrices
-* LLM-generated rebalancing policy
-* Agent that auto-explains diversification benefits
+* Portfolio optimization in Python
+* Valuation & forecasting workflows
+* Trading strategy backtesting
+* NLP for financial statements
+* Ethical guardrails for autonomous finance agents
 
 ---
 
-## **Chapter 9: Capital Allocation & Efficient Diversification**
+## **Module 6 — Analysis, Validation, and Troubleshooting**
 
-9.1 Capital Allocation Line (CAL)
-9.2 Optimal Portfolio Construction
-9.3 Mean-Variance Optimization
-9.4 Incorporating Real-World Constraints
-**Exercises:**
+Students learn to:
 
-* Risk/return simulation
-* LLM portfolio advisor agent
-* Multi-agent disagreement resolution engine (risk vs return)
+* Debug Python notebooks
+* Validate LLM-generated financial reasoning
+* Compare outputs across agentic systems
+* Identify hallucinations & incorrect assumptions
+* Improve financial models through iteration
 
 ---
 
-## **Chapter 10: Asset Pricing Models**
-
-10.1 CAPM
-10.2 Beta Estimation
-10.3 Security Market Line
-10.4 Multifactor Models
-**Exercises:**
-
-* Python beta calculator
-* Factor exposure interpreter agent
-* CAPM vs LLM agent explanation comparison
+# **Part III — Advanced Topics, Projects & Impact**
 
 ---
 
-# **Part IV — Financial Statement Analysis & Forecasting**
+## **Module 7 — Advanced Methods**
+
+Examples:
+
+* Monte Carlo simulation
+* Machine learning in finance
+* Time-series forecasting (ARIMA, GARCH)
+* Multi-agent debate for financial modeling
+* Autonomous portfolio agents
 
 ---
 
-## **Chapter 11: Financial Statement Analysis**
+## **Module 8 — Social Impact Lab**
 
-11.1 Ratios & Metrics
-11.2 DuPont Decomposition
-11.3 Trend Forecasting
-11.4 Cross-Sectional Comparison
-**Exercises:**
+Students explore how computational finance + agentic AI can benefit:
 
-* Python ratio dashboards
-* LLM governance-risk agent
-* Competitor benchmarking with a pairwise LLM agent
+* Nonprofits
+* Financial literacy for underserved communities
+* Public-interest finance (housing, labor, education)
+* Social good investment analytics
+* Community finance forecasting
 
 ---
 
-## **Chapter 12: Monte Carlo Simulations**
+## **Module 9 — Capstone: Build Something That Helps Someone**
 
-12.1 Random Variates
-12.2 Geometric Brownian Motion
-12.3 Value at Risk
-12.4 Monte Carlo Option Pricing
-**Exercises:**
+Each learner creates:
 
-* Price path simulation
-* LLM-generated scenario stressors
-* Multi-agent VaR validation (LLM + Python)
+* A financial analysis agent
+* A small valuation or forecasting tool
+* An open dataset (curated market, ESG, or industry data)
+* A tutorial or explainer
+* A visualization or dashboard
+* Or a social-good finance project
 
----
-
-## **Chapter 13: Fixed Income Analytics**
-
-13.1 Advanced Bond Pricing
-13.2 Duration & Convexity
-13.3 Yield Curve Modeling
-13.4 Managing Interest Rate Exposure
-**Exercises:**
-
-* Duration hedging in Python
-* Yield curve constructor agent
-* Interest-rate risk scenario agent
+Capstones must align with **AI for Good** principles.
 
 ---
 
-# **Part V — Time Series, Forecasting & Trading Systems**
+# **Course Objectives**
+
+By the end of this course, volunteers will be able to:
+
+### **Understanding**
+
+* Explain foundational concepts in computational finance
+* Understand ethical & societal implications of financial AI systems
+
+### **Technical Skills**
+
+* Build Python-based financial models
+* Use LLMs and agentic AI for analysis, forecasting, and decision-support
+* Validate models through triangulation (Python ↔ LLM ↔ Agent)
+
+### **Teaching Skills**
+
+* Produce clear tutorials
+* Record short explanation videos
+* Use Humanitarians Courses GPT to generate course artifacts
+
+### **Social Impact**
+
+* Apply computational finance to nonprofit and public-good settings
+* Design accessible tools for communities and learners
 
 ---
 
-## **Chapter 14: Time Series Analysis & Forecasting**
+# **Course Materials**
 
-14.1 AR / MA
-14.2 ARIMA Modeling
-14.3 GARCH Volatility Modeling
-14.4 Forecast Evaluation
-**Exercises:**
+### **Primary Resources**
 
-* ARIMA forecasting pipeline
-* LLM critique agent for model assumptions
-* Python+LLM hybrid forecasting engine
+* GitHub course repository
+* Jupyter notebooks & hands-on labs
+* Humanitarians Courses GPT assistant
 
----
+### **Additional Materials**
 
-## **Chapter 15: Trading Strategies & Backtesting**
-
-15.1 Momentum Strategies
-15.2 Mean Reversion
-15.3 Indicators & Signals
-15.4 Performance Attribution
-**Exercises:**
-
-* Python backtesting framework
-* Agent that explains failed trades
-* Multi-agent optimization of parameters
+* Research papers and open-access books
+* Public financial datasets
+* Community tutorials
+* YouTube lectures (as produced)
 
 ---
 
-# **Part VI — Machine Learning, NLP & Agentic AI in Finance**
+# **Course Highlights**
+
+* Built by volunteers learning by teaching
+* Community-driven & open-source
+* Agentic AI tools integrated into every module
+* Hands-on labs precede all lecture videos
+* Includes a course-specific GPT + GEM model
+* Designed for beginners, recent grads, and new fellows
+* Continually updated through Humanitarians AI
 
 ---
 
-## **Chapter 16: Machine Learning in Finance**
+# **Instructors, Contributors & Approvals**
 
-16.1 Supervised Learning
-16.2 Feature Engineering
-16.3 Classification for Signals
-16.4 Model Evaluation
-**Exercises:**
-
-* ML factor modeling
-* Agent that critiques ML model choices
-* Ensemble predictor with LLM explanation
+* Created by **Humanitarians AI Volunteers & Fellows**
+* No instructor approval required
+* Open to contributors at any skill level
+* All contributions reviewed via GitHub pull requests
 
 ---
 
-## **Chapter 17: NLP for Financial Analysis**
+# **📁 Repository Structure**
 
-17.1 Sentiment Analysis
-17.2 Topic Modeling
-17.3 NLP-Based Trading Signals
-17.4 LLM-Based Research Pipelines
-**Exercises:**
+**Core Course Materials**
 
-* Earnings call topic modeling
-* LLM financial summarizer
-* Multi-agent contradiction detector (compare sources)
+```
+Outline/
+Labs/
+Lectures/
+Assignments/
+Syllabus/
+```
 
----
+**Topic Modules**
 
-## **Chapter 18: Risk Management with Agentic AI**
+```
+Module_01_Intro/
+Module_02_Fundamentals/
+Module_03_Tools/
+Module_04_Methods/
+Module_05_Applied/
+Module_06_Advanced/
+Module_07_Impact/
+```
 
-18.1 Value-at-Risk & Expected Shortfall
-18.2 Stress Testing
-18.3 Hedging & Derivative Strategies
-18.4 Risk-Adjusted Performance
-**Exercises:**
+**Learning Resources**
 
-* LLM stress test generator
-* Python hedging simulations
-* Agent-based risk assessment system
+```
+Datasets/
+Cheatsheets/
+Reading/
+Notebooks/
+MD/
+```
 
----
+**Tooling**
 
-# **Part VII — Advanced Agentic AI for Computational Finance**
-
----
-
-## **Chapter 19: Autonomous LLM Agents in Finance**
-
-19.1 Building LLM-Finance Agents
-19.2 Multi-agent Financial Debate Systems
-19.3 Tool-using Agents (APIs, Python, Retrieval)
-19.4 Limitations & Alignment Risks
-**Exercises:**
-
-* Build a portfolio analysis agent
-* Build a research assistant agent
-* Multi-agent financial question triangulation
+```
+GEM/
+GPT_Assistant/
+```
 
 ---
 
-# **Appendices**
+# **License**
 
-### Appendix A — Python Financial Libraries (instead of Excel)
+All content is open educational material for humanitarian use.
 
-### Appendix B — Agentic AI System Templates
+---
 
-### Appendix C — Prompt Patterns for Computational Finance
+# **Join the Mission**
 
-### Appendix D — Data APIs & Real-Time Data Feeds
+Humanitarians AI is building the future of **ethical, accessible AI education** for global good.
 
-### Appendix E — Statistics & Probability for Finance
-
-### Glossary
-
-### Index
-
--
+Support or get involved:
+[https://www.humanitarians.ai/](https://www.humanitarians.ai/)
